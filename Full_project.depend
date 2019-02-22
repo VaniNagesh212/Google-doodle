@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1527606736 source:/home/vaninagesh/CGlab/Full_project/main.cpp
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
+1527606815 source:/home/vaninagesh/CG_Project_final/Full_project/main.cpp
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
