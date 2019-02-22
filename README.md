@@ -8,3 +8,5 @@ We have also added music to it such that all the words will keep on dancing till
 music stops.
 
 All the required library files and the header files are available in the included directory. The library files are GL, GLU, glut,thread etc.
+
+Screenshots of the project can be viewed from screenshots folder
