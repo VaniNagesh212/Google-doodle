@@ -9,4 +9,4 @@ music stops.
 
 All the required library files and the header files are available in the included directory. The library files are GL, GLU, glut,thread etc.
 
-Screenshots of the project can be viewed from screenshots folder
+You can see the working of the project in the demo folder
